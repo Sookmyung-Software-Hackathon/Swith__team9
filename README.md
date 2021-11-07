@@ -7,6 +7,10 @@
 #### [팀9] 이지수(Backend) 임채원(Frontend)
 
 
+
+
+
+
 #Deployment
 -------------------
 드라이브 링크를 통해 다운받으시면 됩니다.
@@ -18,11 +22,19 @@
 >Backend Deployment: https://www.master-7rqtwti-njyfxwqq3gv3q.au.platformsh.site/
 
 
+
+
+
+
 #사용 기술
 -------------------
 1. frontent : react-native
 2. backend : node JS
 3. server cloud : platform.sh
+
+
+
+
 
 
 #소개
@@ -42,6 +54,10 @@
 ##👉숙명여대 스터디 그룹 게더링 서비스 **Swith**은 팀 구성부터 목표 달성까지의 여정에 함께합니다.
 
 
+
+
+
+
 #핵심기능
 ------------------
 
@@ -50,6 +66,10 @@
 - 나의 이번주 **todoList를 한눈에 확인**하고, 버튼 하나로 쉽게 인증할 수 있습니다.
 - 다른 참여자들의 **인증 현황을 한 곳에서 확인**하고 진행상황을 파악할 수 있습니다.
 - **매주 사진인증 및 todoList 체크**로 목표달성을 위한 강제성을 부여합니다.
+
+
+
+
 
 
 #Design
