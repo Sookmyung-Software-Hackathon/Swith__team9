@@ -73,6 +73,6 @@
 
 
 #Design
-Design by 임채원
 --------------------
+Design by 임채원
 ![무제-1](https://user-images.githubusercontent.com/67117391/140651686-53c91209-5235-4b77-b8e6-dc62eae92155.jpg)
