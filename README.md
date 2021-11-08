@@ -1,10 +1,9 @@
 ![캡처](https://user-images.githubusercontent.com/67117391/140651748-8492b0bc-75b7-4e5e-ab2f-1681f75eba45.PNG)
 
 # Swith__team9
-## 🌈[Swith] 너와 나의 숙명의 스터디. 교내 스터디 그룹 게더링 어플리케이션
+### 🌈[Swith] 너와 나의 숙명의 스터디. 교내 스터디 그룹 게더링 어플리케이션
 
------------------------
-#### [팀9] 이지수(Backend) 임채원(Frontend)
+[팀9] 이지수(Backend) 임채원(Frontend)
 
 
 
@@ -12,7 +11,6 @@
 
 
 # Deployment
--------------------
 드라이브 링크를 통해 다운받으시면 됩니다.
 
 >Application apk file: https://drive.google.com/file/d/1ak8buMRRIhhywpt064KFj8Poxf1Qksxs/view?usp=sharing
@@ -27,7 +25,6 @@
 
 
 # 사용 기술
--------------------
 1. frontent : react-native
 2. backend : node JS
 3. server cloud : platform.sh
@@ -38,7 +35,6 @@
 
 
 # 소개
-------------------
 ## 오픈카톡과 쪽지로 소통하던 스터디 그룹, 더 효율적인 방법을 찾아서
 
 - 📋스터디 리더가 더 쉽고 편리하게 스터디를 관리할 수 없을까?
@@ -59,7 +55,6 @@
 
 
 # 핵심기능
-------------------
 
 - 숙명 구글메일 인증 방식으로 **숙명인들만을 위한 커뮤니티**를 제공합니다.
 - 전공, 취준, 어학 등 8개로 정리된 카테고리를 통해 **편리하게 스터디를 찾을 수** 있습니다.
@@ -73,6 +68,5 @@
 
 
 # Design
---------------------
 Design by 임채원
 ![무제-1](https://user-images.githubusercontent.com/67117391/140651686-53c91209-5235-4b77-b8e6-dc62eae92155.jpg)
